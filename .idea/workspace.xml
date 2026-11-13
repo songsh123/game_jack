@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b624c19-3bcd-4dc4-907a-a52e08c6ed65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bowlingClub/src/assets/kakaotalk.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_practice1/java_practice1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_practice1/src/com/company/SavingGoal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loire-jewelry/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coin_example_project_/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_login/easylogin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../emergency_0807/src/components/Child.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../emergency_0807/src/components/Child.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../emergency_0807/src/components/notFound.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../emergency_0807/src/components/notFound.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../emergency_0807/src/myMixin.js" beforeDir="false" afterPath="$PROJECT_DIR$/../emergency_0807/src/myMixin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../emergency_0807/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../emergency_0807/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../emergency_0807/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/../emergency_0807/src/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../emergency_0807/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../emergency_0807/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_project/src/api/Faq.js" beforeDir="false" afterPath="$PROJECT_DIR$/../example_project/src/api/Faq.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_project/src/assets/style/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../example_project/src/assets/style/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_project/src/common/mixins/Common.js" beforeDir="false" afterPath="$PROJECT_DIR$/../example_project/src/common/mixins/Common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_project/src/components/Caution.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../example_project/src/components/Caution.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_project/src/components/Child.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../example_project/src/components/Child.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_project/src/components/DeepComponent/Deep.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../example_project/src/components/DeepComponent/Deep.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_project/src/components/Exercise.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../example_project/src/components/Exercise.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_project/src/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../example_project/src/components/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_project/src/components/Notice.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../example_project/src/components/Notice.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_project/src/components/Profile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../example_project/src/components/Profile.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_project/src/components/TodoList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../example_project/src/components/TodoList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_project/src/components/TodoListCopy.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../example_project/src/components/TodoListCopy.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_project/src/components/UserGuide.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../example_project/src/components/UserGuide.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_project/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../example_project/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/.firebase/hosting.ZGlzdA.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/.firebase/hosting.ZGlzdA.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/homepage_solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/homepage_solution.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/assets/images/home/section1/s1_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/assets/images/home/section1/s1_img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/assets/images/home/section1/s1_img2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/assets/images/home/section1/s1_img2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/assets/images/home/section1/s1_m_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/assets/images/home/section1/s1_m_img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/assets/images/home/section1/s1_m_img2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/assets/images/home/section1/s1_m_img2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/assets/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/assets/styles/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/assets/styles/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/assets/styles/home/section1.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/assets/styles/home/section1.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/assets/styles/home/section2.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/assets/styles/home/section2.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/assets/styles/home/section5.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/assets/styles/home/section5.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/assets/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/assets/styles/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/components/bestSeller/Bracelet.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/components/bestSeller/Earring.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/components/bestSeller/Necklace.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/components/bestSeller/Ring.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/components/rending/section2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/components/rending/section2.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/components/rending/section5.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/components/rending/section5.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/layout/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/layout/Footer.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/layout/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/layout/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/layout/NoLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/layout/NoLayout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/router/modules/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/router/modules/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/src/views/home/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/src/views/home/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepage_solution/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../homepage_solution/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/android-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/android-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/android-icon-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/android-icon-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/android-icon-36x36.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/android-icon-36x36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/android-icon-48x48.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/android-icon-48x48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/android-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/android-icon-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/android-icon-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/android-icon-96x96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-114x114.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-114x114.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-120x120.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-120x120.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-152x152.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-152x152.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-180x180.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-180x180.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-57x57.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-57x57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-60x60.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-60x60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-76x76.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-76x76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon-precomposed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/apple-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/favicon-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/favicon-96x96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/ms-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/ms-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/ms-icon-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/ms-icon-150x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/ms-icon-310x310.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/ms-icon-310x310.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/public/favicon/ms-icon-70x70.png" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/public/favicon/ms-icon-70x70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/src/assets/styles/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/src/assets/styles/common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/src/assets/styles/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/src/assets/styles/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/src/assets/styles/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/src/assets/styles/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/src/assets/styles/login.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/src/assets/styles/login.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/src/assets/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/src/assets/styles/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/src/layout/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/src/layout/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/src/router/modules/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/src/router/modules/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/src/router/modules/Sign.js" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/src/router/modules/Sign.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/src/views/home/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/src/views/home/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/src/views/sign/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/src/views/sign/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sh_instar/src/views/sign/SignUp.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../sh_instar/src/views/sign/SignUp.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="3M3fSiXZHCGG5VcvzZz3MrAIVQv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b624c19-3bcd-4dc4-907a-a52e08c6ed65" name="Default Changelist" comment="" />
+      <created>1794584173016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794584173016</updated>
+      <workItem from="1794584174567" duration="764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
